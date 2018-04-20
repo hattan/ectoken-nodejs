@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hattan/ectoken-nodejs.svg?branch=master)](https://travis-ci.org/hattan/ectoken-nodejs)
+
 ![Verizon Digital Media Services](https://images.verizondigitalmedia.com/2016/03/vdms-30.png)
 
 
