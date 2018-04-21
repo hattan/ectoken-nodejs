@@ -20,7 +20,7 @@
     "edgecast",
     "vdms"
   ],
-  "author": "Verizon Digital Media Services",
+  "author": "Ryan French",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/VerizonDigital/ectoken/issues"
