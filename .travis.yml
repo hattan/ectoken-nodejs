@@ -2,6 +2,12 @@ language: node_js
 branches:
   only: 
     - master
+deploy:
+  provider: npm
+  email: "$npmEmail"
+  api_key: "$npmToken"  
+  on:
+    branch: master 
 node_js:
   - "9"
   - "8"
